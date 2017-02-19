@@ -43,5 +43,18 @@ nav{
     height: 25px;
     border: none;
 }
+.content{
+    color: #d9d9d9;
+    float: left;
+}
+p{
+    font-size: 20px;
+}
+hr{
+    width: 20px;
+    margin: 0;
+    border-top: 2px solid #003999;
+
+}
 /*'Oleo Script', Helvetica, sans-serif */
 /*'Great Vibes', Helvetica, sans-serif   003999*/
